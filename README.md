@@ -38,7 +38,7 @@ r=reqs.get("http://210.70.80.21/~bs109021089/Publication.html")
 print(r.status_code)
 ```
 
-- 如果網址是存在的話，就會列印出網址裡所有的網址碼。
+- 如果網址是存在的話，就會列印出網址裡所有的文字。
 
 ```Python
 import requests as reqs
